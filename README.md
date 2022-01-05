@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+- 🔭 I’m currently working on small Front-End Projects in React & Vue;
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/)
+- 💬 Ask me about Front-End Development and AI/ML & Conversational AIs
 
 <!--
 **MartaBento/MartaBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
