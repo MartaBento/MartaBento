@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on small Front-End Projects in React & Vue;
+- 🔭 I’m currently working on small Front-End Projects in React & Vue & also CSS frameworks, like Bulma or Tailwind and SASS as a pre-processor;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/)
 - 💬 Ask me about Front-End Development and AI/ML & Conversational AIs
 
