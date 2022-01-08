@@ -4,6 +4,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/)
 - 💬 Ask me about Front-End Development and AI/ML & Conversational AIs
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=martabento&theme=panda&show_icons=true" alt="Marta's Stats"/>
+</p>
+
 <!--
 **MartaBento/MartaBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
