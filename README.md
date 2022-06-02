@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently working on xgeeks as a Front-End Software Engineer;
-- 🚀 Technologies: React, Vue, CSS frameworks, like Bulma or Tailwind and SASS as a pre-processor;
+- 🚀 Technologies: HTML, CSS, JavaScript, React, Vue, CSS frameworks, like Bulma or Tailwind and SASS as a pre-processor;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/);
 - 💬 Ask me about Front-End Development and AI/ML & Conversational AIs.
 
