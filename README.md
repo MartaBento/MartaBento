@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on xgeeks as a Front-End Software Engineer;
+- 🔭 I’m currently working on xgeeks as a frontend engineer;
 - 🚀 Technologies: HTML, CSS, JavaScript, React, Vue, CSS frameworks, like Bulma or Tailwind and SASS as a pre-processor;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/);
-- 💬 Ask me about Front-End Development and AI/ML & Conversational AIs.
+- 💬 Ask me about Frontend Engineering, Accessibility and AI/ML & Conversational AIs.
 
 ### Stats
 <div align="center">
@@ -22,6 +22,5 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
 </div>
