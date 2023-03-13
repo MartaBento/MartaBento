@@ -1,9 +1,24 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on xgeeks as a frontend engineer;
-- 🚀 Technologies: HTML, CSS, JavaScript, React, Vue, CSS frameworks, like Bulma or Tailwind and SASS as a pre-processor;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/);
-- 💬 Ask me about Frontend Engineering, Accessibility and AI/ML & Conversational AIs.
+Have you ever heard the term multipotentialite? If not, I invite you to keep reading!
+
+My mind is often floating with new ideas and I relish studying multiple fields and areas. Currently, I'm a frontend engineer with a passion for crafting inclusive and accessible user experiences that everyone can enjoy. The web should be for everyone - it's a personal mantra for me. Working in this area and being a naturally curious person, I also like to study the area of UI/UX - this knowledge allows me to grasp some product concepts and think about the web in a more broad spectrum beyond engineering.
+
+A little backstory about me: I have a master's degree in Clinical Psychology. Even though studying the human mind and behaviour was something I enjoyed & that created an important foundation for my understanding of people & human behaviour, I always had a profound interest in coding and all things related to technology, namely playing with WordPress and HTML during my high-school years and seeing how things worked on the Web. 
+
+Programming keeps me continuously learning, and that's what defines me: I'm a learner at heart & that's my superpower! 
+
+I'm quickly galvanised by multiple subjects, from coding to plants, to learning a new language, which means that I need to be constantly driven to learn new things and to always be in an environment that keeps me challenged. 
+
+Beyond crafting web experiences, you will probably find me with a cup of coffee or tea, reading a good book, listening to a podcast or with my cats.
+
+🧠 Main fields of interest: Frontend Engineering | Accessibility | UI/UX | Human-Computer Interaction | AI, Machine Learning & Conversational AI | Mental Health | Environment & Sustainability
+
+🚀 Experienced with technologies: HTML | CSS | JavaScript | TypeScript | Chakra UI | React | Vue | SASS | Tailwind | Bulma | Bootstrap | Next.js | Storybook | Python | Java | SQL
+
+## Contacts
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/)
 
 ### Stats
 <div align="center">
