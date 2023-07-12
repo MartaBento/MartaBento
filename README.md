@@ -12,11 +12,6 @@ I'm also a lifelong learner, constantly seeking new challenges to keep me engage
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/)
 
-### Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=martabento&theme=panda&show_icons=true" alt="Marta's Stats"/>
-</div>
-
 ### Technical Skills
 
 <div align="center">
