@@ -1,4 +1,4 @@
-### Hi! 👋
+Hi! 👋
 
 A frontend engineer passionate about crafting inclusive and accessible user experiences that everyone can enjoy. My mantra is that the web should be for everyone.
 
@@ -8,7 +8,7 @@ Having a background in Psychology created an essential foundation for my underst
 
 I'm also a lifelong learner, constantly seeking new challenges to keep me engaged and driven - from coding to plants to learning a new language or skill - I need to be constantly driven to learn new things and to always be in an environment that keeps me challenged. 
 
-## Contacts
+### Contacts
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-bento/)
 
